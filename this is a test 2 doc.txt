@@ -1,0 +1,9 @@
+We're pretty certain this is the start of something really special, so we wanted to take a moment to personally welcome you to GitHub. We like to think of GitHub as the best way to build and ship software, and it's great to have you on board! 
+To make your life easier, we thought it might be helpful to point you to some awesome ways to use GitHub. 
+GitHub Flow in the Browser 
+Want to learn how to contribute to GitHub without learning Git? Learn how to branch, edit, and submit your first pull request all in the browser. 
+Explore what is Trending on GitHub 
+From open government data to web frameworks, our trending page is a great way to discover different ways people are using GitHub. 
+Help & Support 
+Feel stuck? It happens to the best of us. Head on over to http://help.github.com or get advice and guidance from real humans. We're here to help. 
+Thanks so much for your time — we're looking forward to seeing what you build with GitHub!
